@@ -1,5 +1,5 @@
 [Unit]
-Description=radeon-profile daemon
+Description=Radeon-Profile-Qt6 Daemon
 
 [Service]
 Type=simple
